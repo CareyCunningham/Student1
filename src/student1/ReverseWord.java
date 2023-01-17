@@ -3,7 +3,7 @@ package student1;
 import java.util.Scanner;
 /**
  *
- * @author cunni
+ * author: Carey Cunningham
  */
 public class ReverseWord {
     public static void main(String[] args){
