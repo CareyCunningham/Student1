@@ -7,9 +7,9 @@ package student1;
  * test comments added
  */
 public class Student1 {
-    private String studentID;
-    private String studentName;
-    private String address;
+    protected String studentID;
+    protected String studentName;
+    protected String address;
 
     public String getAddress() {
         return address;
