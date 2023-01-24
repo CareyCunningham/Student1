@@ -1,7 +1,7 @@
 package student1;
 
 /**
- *
+ * date: 2023-01-24 - test of pull operation
  * @author cunni
  */
 public class StudentList {
