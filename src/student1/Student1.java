@@ -1,6 +1,7 @@
 package student1;
 
-/**
+/*
+ * date: 2023-01-24
  * SYST17796 - Fundamentals of Software Design and Development
  * @author Carey Cunningham
  * test comments added
